@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+<body>
+<meta name="google-site-verification" content="2jRZpumBzDPXJ1Ww0AheYW3245cx8fu7Bqkd91RZO4U" />
+<meta name=”viewport” content=”width=device-width,initial-scale=1.0,minimum-scale=1.0″>
+<img src="rogo-01.jpg"alt="ロゴ"background-size: cover width="1300" height="250";>
+<link rel="stylesheet" type="studiok/css" href="studiok.css">
+</body>
+
+<title>Change colors, tweak lighting, and add popular effects! Let us to get your pictures looking perfect!</title>
+
+<br>
+
+<h1>
+<ul id="link1">
+<li><a href="http://studiok.sakura.ne.jp/studio-k2/studio-k2">点撃査看中文</a></li>
+<li><a href="http://studiok.sakura.ne.jp/studio-k">Click here for Japanese</a></li>
+
+</ul>
+</h1>
+
+
+<h1 class="small_text center p_blue">&#x1f44d; Photo editing for posting on SNS such as Instagram・Twitter・Facebook etc..
+<br>
+<br>With the amount of photos we get posted on the site every day, photo editing will help your pictures stand out and get noticed. This is especially important if you want to get your pictures featured to the front page and end up in contest finalists &#x1f60a;
+<br>
+<br>Please contact me whenever you want and just let me know what you need, I promise I will do my best for you!
+
+
+</h1>
+</body>
+<br>
+
+
+<div align="center"><img class="disp-block blockcenter" src="banner3.jpg" alt="Please follow the steps below" ></div>
+
+
+<p>
+
+<h1>
+<div><img src="LINE.png.png"alt="LINE"width="200" height="200"></div>
+<br>
+<a href="https://lin.ee/4ZcvXpV"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="LINE" height="60" >
+<br>
+&#x1f446;
+
+</h1>
+</a>
+
+<h2>
+
+<p>Approximate time required（standard）
+
+<ul>
+
+
+<li>1 picture→ The minimum time to complete the work will be in one day after getting a job offer.</li>
+<li> Depending on the work content time required will be different. </li>
+</ul>
+
+</p>
+
+<p>Price
+<ul>
+<li>1picture:1000 JPY</li>
+<li>10 picture:8000 JPY </li>
+<li>To get a set discount! </li>
+<li> GOLD COURSE・70 photos :50,000 JPY </li>
+<li> PLATINUM COURSE・400 photos :250,000 JPY</li>
+<li> DIAMOND COURSE・1000 photos :600,000 JPY</li>
+</ul>
+<FONT size="+1" color="#ff0000"><FONT color="#ff0000"><B></B></FONT>
+※The set discount will have to pay in advance. <br>
+※Everything will be sent by LINE, therefore NO personal information is required. <br>
+</B></FONT>
+
+
+</h2>
+</p>
+
+
+
+<small>&copy;2020 STUDIO K All rights reserved.</small>
+</html>

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+<body>
+<meta name="google-site-verification" content="2jRZpumBzDPXJ1Ww0AheYW3245cx8fu7Bqkd91RZO4U" />
+<meta name=”viewport” content=”width=device-width,initial-scale=1.0,minimum-scale=1.0″>
+<img src="rogo-01.jpg"alt="ロゴ"background-size: cover width="1000" height="250";>
+<link rel="stylesheet" type="studiok/css" href="studiok.css">
+</body>
+
+<title>美颜美肌以及照片PS请交给我把！效率高，保证自然无违和感!</title>
+
+<br>
+
+<h1>
+<ul id="link1">
+<li><a href="http://studiok.sakura.ne.jp/studio-k">点撃査看日文</a></li>
+<li><a href="http://studiok.sakura.ne.jp/studio-k2/studio-k3/studio-k3">Click here for English</a></li>
+
+</ul>
+</h1>
+
+
+<h1 class="small_text center p_blue">&#x1f44d; 編輯各類投稿用写真
+<br>如投稿在Instagram・Twitter（推特）・Facebook（FB）等各類社交平台的照片。
+<br>加工精修网紅照，甚至是高P成看不出来是本人的程度都可以。
+<br>不管任何要求，需要的都請交給我！
+
+
+</h1>
+</body>
+<br>
+
+
+<div align="center"><img class="disp-block blockcenter" src="banner2.jpg" alt="工作流程" ></div>
+
+<p>
+
+<h1>
+<div><img src="LINE.png.png"alt="LINEはこちら"width="200" height="200"></div>
+<br>
+<a href="https://lin.ee/4ZcvXpV"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="60" border="0"></a>
+
+<br>
+&#x1f446;
+
+</h1>
+</a>
+
+<h2>
+<p>照片編輯所需時間（平均）
+
+
+<ul>
+
+
+<li>1張照片→最短時間→在接単后隔天可完成任務。</li>
+<li>根据客戸要求内容的不同，照片編輯所需時間会有所浮動。</li>
+
+</ul>
+
+</p>
+
+
+<p>价格
+<ul>
+<li>1張:1000日元</li>
+<li>10張:8000日元</li>
+<li>特価套餐優惠</li>
+<li>定額黄金套餐・70張: 5万日元</li>
+<li>定額白金套餐・400張: 25万日元</li>
+<li>定額鑽石套餐・1000張: 60万日元</li>
+</ul>
+<FONT size="+1" color="#ff0000"><FONT color="#ff0000"><B></B></FONT>
+※享受套餐折扣需提前支付費用。<br>
+※使用LINE進行交流，不需要任何个人信息。<br>
+</B></FONT>
+
+
+
+</h2>
+</p>
+
+
+
+<small>&copy;2020 STUDIO K All rights reserved.</small>
+</html>

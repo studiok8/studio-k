@@ -1,0 +1,58 @@
+@charset "utf-8";
+
+body {
+    background-color: #9cf8e2;
+}
+
+header {
+ width: 980px
+ margin:0 auto
+}
+
+#red {
+ color: red;
+}
+
+.center {
+ align: center;
+ size: 100%;
+}
+
+h3 {
+    font-size: 7em;
+    margin-top: 3px;
+    padding: 100px 5px;
+}
+
+#contents-item{
+    float: left;
+    margin: 5px 5px;
+    padding: 5px 5px;
+}
+
+
+
+footer.section-title {
+    color: red;
+}
+
+h4 {
+   padding: 30px 30px;
+   margin: 50px 50px;
+   background-color: #x1f44d;
+}
+
+h4 {
+    background-color: #c7a4e67a;
+    size: 100%;
+}
+
+h4 p{
+   font-size: 16px;
+}
+
+.section-title {
+   font-color: "#ff0000";
+}
+
+
