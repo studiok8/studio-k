@@ -6,7 +6,7 @@
 <body>
 <meta name="google-site-verification" content="2jRZpumBzDPXJ1Ww0AheYW3245cx8fu7Bqkd91RZO4U" />
 <meta name=”viewport” content=”width=device-width,initial-scale=1.0,minimum-scale=1.0″>
-<img src="rogo-01.jpg"alt="ロゴ"background-size: cover width="1300" height="250";>
+<img src="banner-1.jpg"alt="ロゴ"　background-size: contain;>
 <link rel="stylesheet" type="studiok/css" href="studiok.css">
 </body>
 
